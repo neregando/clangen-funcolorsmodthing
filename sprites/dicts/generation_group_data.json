@@ -3,6 +3,7 @@
         "colors": {
             "WHITE": "white",
             "PALEGREY": "white",
+			"GREYLILAC": "white",
             "SILVER": "white",
             "GREY": "black",
             "DARKGREY": "black",
