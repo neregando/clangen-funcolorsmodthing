@@ -9,6 +9,10 @@
             "one": "gray",
             "many": "pale gray"
         },
+		"GREYLILAC": {
+            "one": "gray",
+            "many": "pale grey"
+        },
         "SILVER": {
             "one": "silver",
             "many": "silver"
